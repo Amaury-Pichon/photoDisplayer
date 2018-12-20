@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://shemas.android.com/apk/res/android">
+    <external-path
+        name="my-images"
+        path="Android/data/fr.wildcodeschool.photodisplayer/files/Pictures" />
+</paths>
+

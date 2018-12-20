@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PhotoDisplayer</string>
+    <string name="button_picture">Take a picture</string>
+</resources>
